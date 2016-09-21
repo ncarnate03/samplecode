@@ -1,0 +1,1030 @@
+2016/08/11 12:34:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "robots.txt".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2016/08/12 00:30:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "robots.txt".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2016/08/12 00:30:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "robots.txt".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2016/08/12 17:53:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "robots.txt".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2016/08/13 08:28:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "robots.txt".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('robots.txt')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/robots.txt
+---
+2016/08/13 08:40:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/css/icheck/flat/green.css".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/css/icheck/flat/green.css
+HTTP_REFERER=http://physioassists.com/user
+---
+2016/08/13 08:40:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/img/img.jpg".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/img/img.jpg
+HTTP_REFERER=http://physioassists.com/user
+---
+2016/08/13 08:40:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/css/icheck/flat/green.css".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/css/icheck/flat/green.css
+HTTP_REFERER=http://physioassists.com/user
+---
+2016/08/13 08:40:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/img/img.jpg".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/img/img.jpg
+HTTP_REFERER=http://physioassists.com/user
+---
+2016/08/13 08:40:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://physioassists.com/user
+---
+2016/08/13 08:40:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/img/img.jpg".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/img/img.jpg
+HTTP_REFERER=http://physioassists.com/user/followups/admin/id/31
+---
+2016/08/13 08:40:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/css/icheck/flat/green.css".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/css/icheck/flat/green.css
+HTTP_REFERER=http://physioassists.com/user/followups/admin/id/31
+---
+2016/08/13 08:40:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/img/img.jpg".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/img/img.jpg
+HTTP_REFERER=http://physioassists.com/user/followups/admin/id/31
+---
+2016/08/13 08:58:48 [warning] [application] Failed to set unsafe attribute "referred_by" of "Patient".
+in /home/ncarnxq8/public_html/physioassists.com/protected/modules/user/controllers/PatientsController.php (22)
+in /home/ncarnxq8/public_html/physioassists.com/index.php (51)
+2016/08/13 08:58:48 [warning] [application] Failed to set unsafe attribute "area" of "Patient".
+in /home/ncarnxq8/public_html/physioassists.com/protected/modules/user/controllers/PatientsController.php (22)
+in /home/ncarnxq8/public_html/physioassists.com/index.php (51)
+2016/08/13 08:58:48 [warning] [application] Failed to set unsafe attribute "middle_name" of "Patient".
+in /home/ncarnxq8/public_html/physioassists.com/protected/modules/user/controllers/PatientsController.php (22)
+in /home/ncarnxq8/public_html/physioassists.com/index.php (51)
+2016/08/13 08:58:48 [warning] [application] Failed to set unsafe attribute "dob" of "Patient".
+in /home/ncarnxq8/public_html/physioassists.com/protected/modules/user/controllers/PatientsController.php (22)
+in /home/ncarnxq8/public_html/physioassists.com/index.php (51)
+2016/08/13 08:58:48 [warning] [application] Failed to set unsafe attribute "age" of "Patient".
+in /home/ncarnxq8/public_html/physioassists.com/protected/modules/user/controllers/PatientsController.php (22)
+in /home/ncarnxq8/public_html/physioassists.com/index.php (51)
+2016/08/13 08:58:48 [warning] [application] Failed to set unsafe attribute "special_tests" of "Patient".
+in /home/ncarnxq8/public_html/physioassists.com/protected/modules/user/controllers/PatientsController.php (22)
+in /home/ncarnxq8/public_html/physioassists.com/index.php (51)
+2016/08/13 08:58:48 [warning] [application] Failed to set unsafe attribute "investigation" of "Patient".
+in /home/ncarnxq8/public_html/physioassists.com/protected/modules/user/controllers/PatientsController.php (22)
+in /home/ncarnxq8/public_html/physioassists.com/index.php (51)
+2016/08/13 08:58:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/img/img.jpg".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/img/img.jpg
+HTTP_REFERER=http://physioassists.com/user
+---
+2016/08/13 08:59:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/img/img.jpg".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/img/img.jpg
+HTTP_REFERER=http://physioassists.com/user
+---
+2016/08/13 08:59:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/css/icheck/flat/green.css".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/css/icheck/flat/green.css
+HTTP_REFERER=http://physioassists.com/user
+---
+2016/08/13 08:59:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/img/img.jpg".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/img/img.jpg
+HTTP_REFERER=http://physioassists.com/user
+---
+2016/08/13 08:59:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/img/img.jpg".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/img/img.jpg
+HTTP_REFERER=http://physioassists.com/user/followups/admin/id/32
+---
+2016/08/13 08:59:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/css/icheck/flat/green.css".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/css/icheck/flat/green.css
+HTTP_REFERER=http://physioassists.com/user/followups/admin/id/32
+---
+2016/08/13 08:59:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/img/img.jpg".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/img/img.jpg
+HTTP_REFERER=http://physioassists.com/user/followups/admin/id/32
+---
+2016/08/13 10:33:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/css/icheck/flat/green.css".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/css/icheck/flat/green.css
+HTTP_REFERER=http://physioassists.com/user/patients
+---
+2016/08/13 10:33:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/img/img.jpg".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/img/img.jpg
+HTTP_REFERER=http://physioassists.com/user/patients
+---
+2016/08/13 10:33:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/img/img.jpg".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/img/img.jpg
+HTTP_REFERER=http://physioassists.com/user/patients
+---
+2016/08/13 10:34:52 [warning] [application] Failed to set unsafe attribute "referred_by" of "Patient".
+in /home/ncarnxq8/public_html/physioassists.com/protected/modules/user/controllers/PatientsController.php (54)
+in /home/ncarnxq8/public_html/physioassists.com/index.php (51)
+2016/08/13 10:34:52 [warning] [application] Failed to set unsafe attribute "area" of "Patient".
+in /home/ncarnxq8/public_html/physioassists.com/protected/modules/user/controllers/PatientsController.php (54)
+in /home/ncarnxq8/public_html/physioassists.com/index.php (51)
+2016/08/13 10:34:52 [warning] [application] Failed to set unsafe attribute "middle_name" of "Patient".
+in /home/ncarnxq8/public_html/physioassists.com/protected/modules/user/controllers/PatientsController.php (54)
+in /home/ncarnxq8/public_html/physioassists.com/index.php (51)
+2016/08/13 10:34:52 [warning] [application] Failed to set unsafe attribute "dob" of "Patient".
+in /home/ncarnxq8/public_html/physioassists.com/protected/modules/user/controllers/PatientsController.php (54)
+in /home/ncarnxq8/public_html/physioassists.com/index.php (51)
+2016/08/13 10:34:52 [warning] [application] Failed to set unsafe attribute "age" of "Patient".
+in /home/ncarnxq8/public_html/physioassists.com/protected/modules/user/controllers/PatientsController.php (54)
+in /home/ncarnxq8/public_html/physioassists.com/index.php (51)
+2016/08/13 10:34:52 [warning] [application] Failed to set unsafe attribute "special_tests" of "Patient".
+in /home/ncarnxq8/public_html/physioassists.com/protected/modules/user/controllers/PatientsController.php (54)
+in /home/ncarnxq8/public_html/physioassists.com/index.php (51)
+2016/08/13 10:34:52 [warning] [application] Failed to set unsafe attribute "investigation" of "Patient".
+in /home/ncarnxq8/public_html/physioassists.com/protected/modules/user/controllers/PatientsController.php (54)
+in /home/ncarnxq8/public_html/physioassists.com/index.php (51)
+2016/08/13 10:34:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/img/img.jpg".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/img/img.jpg
+HTTP_REFERER=http://physioassists.com/user/patients
+---
+2016/08/13 10:37:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/css/icheck/flat/green.css".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/css/icheck/flat/green.css
+HTTP_REFERER=http://physioassists.com/user
+---
+2016/08/13 10:37:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/img/img.jpg".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/img/img.jpg
+HTTP_REFERER=http://physioassists.com/user
+---
+2016/08/13 10:37:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/css/icheck/flat/green.css".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/css/icheck/flat/green.css
+HTTP_REFERER=http://physioassists.com/user
+---
+2016/08/13 10:37:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/img/img.jpg".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/img/img.jpg
+HTTP_REFERER=http://physioassists.com/user
+---
+2016/08/13 10:37:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+HTTP_REFERER=http://physioassists.com/user
+---
+2016/08/13 10:37:20 [warning] [application] Failed to set unsafe attribute "referred_by" of "Patient".
+in /home/ncarnxq8/public_html/physioassists.com/protected/modules/user/controllers/PatientsController.php (54)
+in /home/ncarnxq8/public_html/physioassists.com/index.php (51)
+2016/08/13 10:37:20 [warning] [application] Failed to set unsafe attribute "area" of "Patient".
+in /home/ncarnxq8/public_html/physioassists.com/protected/modules/user/controllers/PatientsController.php (54)
+in /home/ncarnxq8/public_html/physioassists.com/index.php (51)
+2016/08/13 10:37:20 [warning] [application] Failed to set unsafe attribute "middle_name" of "Patient".
+in /home/ncarnxq8/public_html/physioassists.com/protected/modules/user/controllers/PatientsController.php (54)
+in /home/ncarnxq8/public_html/physioassists.com/index.php (51)
+2016/08/13 10:37:20 [warning] [application] Failed to set unsafe attribute "dob" of "Patient".
+in /home/ncarnxq8/public_html/physioassists.com/protected/modules/user/controllers/PatientsController.php (54)
+in /home/ncarnxq8/public_html/physioassists.com/index.php (51)
+2016/08/13 10:37:20 [warning] [application] Failed to set unsafe attribute "age" of "Patient".
+in /home/ncarnxq8/public_html/physioassists.com/protected/modules/user/controllers/PatientsController.php (54)
+in /home/ncarnxq8/public_html/physioassists.com/index.php (51)
+2016/08/13 10:37:20 [warning] [application] Failed to set unsafe attribute "special_tests" of "Patient".
+in /home/ncarnxq8/public_html/physioassists.com/protected/modules/user/controllers/PatientsController.php (54)
+in /home/ncarnxq8/public_html/physioassists.com/index.php (51)
+2016/08/13 10:37:20 [warning] [application] Failed to set unsafe attribute "investigation" of "Patient".
+in /home/ncarnxq8/public_html/physioassists.com/protected/modules/user/controllers/PatientsController.php (54)
+in /home/ncarnxq8/public_html/physioassists.com/index.php (51)
+2016/08/13 10:37:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/img/img.jpg".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/img/img.jpg
+HTTP_REFERER=http://physioassists.com/user
+---
+2016/08/13 10:37:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/css/icheck/flat/green.css".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/css/icheck/flat/green.css
+HTTP_REFERER=http://physioassists.com/user/followups/admin/id/32
+---
+2016/08/13 10:37:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/img/img.jpg".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/img/img.jpg
+HTTP_REFERER=http://physioassists.com/user/followups/admin/id/32
+---
+2016/08/13 10:37:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/css/icheck/flat/green.css".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/css/icheck/flat/green.css
+HTTP_REFERER=http://physioassists.com/user/followups/admin/id/32
+---
+2016/08/13 10:37:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/img/img.jpg".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/img/img.jpg
+HTTP_REFERER=http://physioassists.com/user/followups/admin/id/32
+---
+2016/08/13 10:37:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/css/icheck/flat/green.css".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/css/icheck/flat/green.css
+HTTP_REFERER=http://physioassists.com/user/patients
+---
+2016/08/13 10:37:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/img/img.jpg".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/img/img.jpg
+HTTP_REFERER=http://physioassists.com/user/patients
+---
+2016/08/13 10:37:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/css/icheck/flat/green.css".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/css/icheck/flat/green.css
+HTTP_REFERER=http://physioassists.com/user/patients
+---
+2016/08/13 10:37:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/img/img.jpg".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/img/img.jpg
+HTTP_REFERER=http://physioassists.com/user/patients
+---
+2016/08/13 10:38:51 [warning] [application] Failed to set unsafe attribute "referred_by" of "Patient".
+in /home/ncarnxq8/public_html/physioassists.com/protected/modules/user/controllers/PatientsController.php (54)
+in /home/ncarnxq8/public_html/physioassists.com/index.php (51)
+2016/08/13 10:38:51 [warning] [application] Failed to set unsafe attribute "area" of "Patient".
+in /home/ncarnxq8/public_html/physioassists.com/protected/modules/user/controllers/PatientsController.php (54)
+in /home/ncarnxq8/public_html/physioassists.com/index.php (51)
+2016/08/13 10:38:51 [warning] [application] Failed to set unsafe attribute "middle_name" of "Patient".
+in /home/ncarnxq8/public_html/physioassists.com/protected/modules/user/controllers/PatientsController.php (54)
+in /home/ncarnxq8/public_html/physioassists.com/index.php (51)
+2016/08/13 10:38:51 [warning] [application] Failed to set unsafe attribute "dob" of "Patient".
+in /home/ncarnxq8/public_html/physioassists.com/protected/modules/user/controllers/PatientsController.php (54)
+in /home/ncarnxq8/public_html/physioassists.com/index.php (51)
+2016/08/13 10:38:51 [warning] [application] Failed to set unsafe attribute "age" of "Patient".
+in /home/ncarnxq8/public_html/physioassists.com/protected/modules/user/controllers/PatientsController.php (54)
+in /home/ncarnxq8/public_html/physioassists.com/index.php (51)
+2016/08/13 10:38:51 [warning] [application] Failed to set unsafe attribute "special_tests" of "Patient".
+in /home/ncarnxq8/public_html/physioassists.com/protected/modules/user/controllers/PatientsController.php (54)
+in /home/ncarnxq8/public_html/physioassists.com/index.php (51)
+2016/08/13 10:38:51 [warning] [application] Failed to set unsafe attribute "investigation" of "Patient".
+in /home/ncarnxq8/public_html/physioassists.com/protected/modules/user/controllers/PatientsController.php (54)
+in /home/ncarnxq8/public_html/physioassists.com/index.php (51)
+2016/08/13 10:38:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/img/img.jpg".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/img/img.jpg
+HTTP_REFERER=http://physioassists.com/user/patients
+---
+2016/08/13 10:38:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/css/icheck/flat/green.css".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/css/icheck/flat/green.css
+HTTP_REFERER=http://physioassists.com/user/followups/admin/id/32
+---
+2016/08/13 10:38:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/css/icheck/flat/green.css".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/css/icheck/flat/green.css
+HTTP_REFERER=http://physioassists.com/user/followups/admin/id/32
+---
+2016/08/13 10:38:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/img/img.jpg".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/img/img.jpg
+HTTP_REFERER=http://physioassists.com/user/followups/admin/id/32
+---
+2016/08/13 10:38:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/css/icheck/flat/green.css".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/css/icheck/flat/green.css
+HTTP_REFERER=http://physioassists.com/user/patients
+---
+2016/08/13 10:38:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/css/icheck/flat/green.css".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/css/icheck/flat/green.css
+HTTP_REFERER=http://physioassists.com/user/patients
+---
+2016/08/13 10:38:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/img/img.jpg".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/img/img.jpg
+HTTP_REFERER=http://physioassists.com/user/patients
+---
+2016/08/13 10:39:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/css/icheck/flat/green.css".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/css/icheck/flat/green.css
+HTTP_REFERER=http://physioassists.com/user/payments/admin/id/31
+---
+2016/08/13 10:39:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/css/icheck/flat/green.css".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/css/icheck/flat/green.css
+HTTP_REFERER=http://physioassists.com/user/payments/admin/id/31
+---
+2016/08/13 10:39:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/img/img.jpg".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/img/img.jpg
+HTTP_REFERER=http://physioassists.com/user/payments/admin/id/31
+---
+2016/08/13 10:39:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/css/icheck/flat/green.css".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/css/icheck/flat/green.css
+HTTP_REFERER=http://physioassists.com/user/patients
+---
+2016/08/13 10:39:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/css/icheck/flat/green.css".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/css/icheck/flat/green.css
+HTTP_REFERER=http://physioassists.com/user/patients
+---
+2016/08/13 10:39:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/img/img.jpg".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/img/img.jpg
+HTTP_REFERER=http://physioassists.com/user/patients
+---
+2016/08/13 10:39:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/css/icheck/flat/green.css".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/css/icheck/flat/green.css
+HTTP_REFERER=http://physioassists.com/user/followups/admin/id/31
+---
+2016/08/13 10:39:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/css/icheck/flat/green.css".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/css/icheck/flat/green.css
+HTTP_REFERER=http://physioassists.com/user/followups/admin/id/31
+---
+2016/08/13 10:39:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/img/img.jpg".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/img/img.jpg
+HTTP_REFERER=http://physioassists.com/user/followups/admin/id/31
+---
+2016/08/13 10:44:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/css/icheck/flat/green.css".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/css/icheck/flat/green.css
+HTTP_REFERER=http://physioassists.com/user/patients
+---
+2016/08/13 10:44:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/css/icheck/flat/green.css".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/css/icheck/flat/green.css
+HTTP_REFERER=http://physioassists.com/user/patients
+---
+2016/08/13 10:44:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/img/img.jpg".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/img/img.jpg
+HTTP_REFERER=http://physioassists.com/user/patients
+---
+2016/08/13 10:45:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/css/icheck/flat/green.css".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/css/icheck/flat/green.css
+HTTP_REFERER=http://physioassists.com/user/followups/admin/id/32
+---
+2016/08/13 10:45:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/css/icheck/flat/green.css".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/css/icheck/flat/green.css
+HTTP_REFERER=http://physioassists.com/user/followups/admin/id/32
+---
+2016/08/13 10:45:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/img/img.jpg".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/img/img.jpg
+HTTP_REFERER=http://physioassists.com/user/followups/admin/id/32
+---
+2016/08/13 10:51:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/css/icheck/flat/green.css".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/css/icheck/flat/green.css
+HTTP_REFERER=http://physioassists.com/user/followups/admin/id/32
+---
+2016/08/13 10:51:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/img/img.jpg".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/img/img.jpg
+HTTP_REFERER=http://physioassists.com/user/followups/admin/id/32
+---
+2016/08/13 10:51:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/css/icheck/flat/green.css".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/css/icheck/flat/green.css
+HTTP_REFERER=http://physioassists.com/user/followups/admin/id/32
+---
+2016/08/13 10:51:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/img/img.jpg".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/img/img.jpg
+HTTP_REFERER=http://physioassists.com/user/followups/admin/id/32
+---
+2016/08/13 10:51:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/css/icheck/flat/green.css".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/css/icheck/flat/green.css
+HTTP_REFERER=http://physioassists.com/user/followups/admin/id/32
+---
+2016/08/13 10:51:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/img/img.jpg".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/img/img.jpg
+HTTP_REFERER=http://physioassists.com/user/followups/admin/id/32
+---
+2016/08/13 10:51:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/css/icheck/flat/green.css".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/css/icheck/flat/green.css
+HTTP_REFERER=http://physioassists.com/user/followups/admin/id/32
+---
+2016/08/13 10:51:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/img/img.jpg".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/img/img.jpg
+HTTP_REFERER=http://physioassists.com/user/followups/admin/id/32
+---
+2016/08/13 10:51:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/css/icheck/flat/green.css".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/css/icheck/flat/green.css
+HTTP_REFERER=http://physioassists.com/user/patients
+---
+2016/08/13 10:52:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/css/icheck/flat/green.css".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/css/icheck/flat/green.css
+HTTP_REFERER=http://physioassists.com/user/followups/admin/id/29
+---
+2016/08/13 10:52:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/img/img.jpg".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/img/img.jpg
+HTTP_REFERER=http://physioassists.com/user/followups/admin/id/29
+---
+2016/08/13 10:52:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/css/icheck/flat/green.css".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/css/icheck/flat/green.css
+HTTP_REFERER=http://physioassists.com/user/followups/admin/id/29
+---
+2016/08/13 10:52:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/img/img.jpg".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/img/img.jpg
+HTTP_REFERER=http://physioassists.com/user/followups/admin/id/29
+---
+2016/08/13 10:53:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/css/icheck/flat/green.css".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/css/icheck/flat/green.css
+HTTP_REFERER=http://physioassists.com/user/patients
+---
+2016/08/13 10:53:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/css/icheck/flat/green.css".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/css/icheck/flat/green.css
+HTTP_REFERER=http://physioassists.com/user/patients
+---
+2016/08/13 10:53:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/img/img.jpg".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/img/img.jpg
+HTTP_REFERER=http://physioassists.com/user/patients
+---
+2016/08/13 10:54:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/css/icheck/flat/green.css".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/css/icheck/flat/green.css
+HTTP_REFERER=http://physioassists.com/user/followups/admin/id/29
+---
+2016/08/13 10:54:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/css/icheck/flat/green.css".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/css/icheck/flat/green.css
+HTTP_REFERER=http://physioassists.com/user/followups/admin/id/29
+---
+2016/08/13 10:54:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/img/img.jpg".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/img/img.jpg
+HTTP_REFERER=http://physioassists.com/user/followups/admin/id/29
+---
+2016/08/13 10:54:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/css/icheck/flat/green.css".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/css/icheck/flat/green.css
+HTTP_REFERER=http://physioassists.com/user/patients
+---
+2016/08/13 10:54:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/img/img.jpg".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/img/img.jpg
+HTTP_REFERER=http://physioassists.com/user/patients
+---
+2016/08/13 10:55:08 [warning] [application] Failed to set unsafe attribute "referred_by" of "Patient".
+in /home/ncarnxq8/public_html/physioassists.com/protected/modules/user/controllers/PatientsController.php (54)
+in /home/ncarnxq8/public_html/physioassists.com/index.php (51)
+2016/08/13 10:55:08 [warning] [application] Failed to set unsafe attribute "area" of "Patient".
+in /home/ncarnxq8/public_html/physioassists.com/protected/modules/user/controllers/PatientsController.php (54)
+in /home/ncarnxq8/public_html/physioassists.com/index.php (51)
+2016/08/13 10:55:08 [warning] [application] Failed to set unsafe attribute "middle_name" of "Patient".
+in /home/ncarnxq8/public_html/physioassists.com/protected/modules/user/controllers/PatientsController.php (54)
+in /home/ncarnxq8/public_html/physioassists.com/index.php (51)
+2016/08/13 10:55:08 [warning] [application] Failed to set unsafe attribute "dob" of "Patient".
+in /home/ncarnxq8/public_html/physioassists.com/protected/modules/user/controllers/PatientsController.php (54)
+in /home/ncarnxq8/public_html/physioassists.com/index.php (51)
+2016/08/13 10:55:08 [warning] [application] Failed to set unsafe attribute "age" of "Patient".
+in /home/ncarnxq8/public_html/physioassists.com/protected/modules/user/controllers/PatientsController.php (54)
+in /home/ncarnxq8/public_html/physioassists.com/index.php (51)
+2016/08/13 10:55:08 [warning] [application] Failed to set unsafe attribute "special_tests" of "Patient".
+in /home/ncarnxq8/public_html/physioassists.com/protected/modules/user/controllers/PatientsController.php (54)
+in /home/ncarnxq8/public_html/physioassists.com/index.php (51)
+2016/08/13 10:55:08 [warning] [application] Failed to set unsafe attribute "investigation" of "Patient".
+in /home/ncarnxq8/public_html/physioassists.com/protected/modules/user/controllers/PatientsController.php (54)
+in /home/ncarnxq8/public_html/physioassists.com/index.php (51)
+2016/08/13 10:55:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/img/img.jpg".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/img/img.jpg
+HTTP_REFERER=http://physioassists.com/user/patients
+---
+2016/08/13 10:55:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/css/icheck/flat/green.css".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/css/icheck/flat/green.css
+HTTP_REFERER=http://physioassists.com/user/followups/admin/id/29
+---
+2016/08/13 10:55:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/css/icheck/flat/green.css".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/css/icheck/flat/green.css
+HTTP_REFERER=http://physioassists.com/user/followups/admin/id/29
+---
+2016/08/13 10:55:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/img/img.jpg".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/img/img.jpg
+HTTP_REFERER=http://physioassists.com/user/followups/admin/id/29
+---
+2016/08/13 10:58:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/css/icheck/flat/green.css".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/css/icheck/flat/green.css
+HTTP_REFERER=http://physioassists.com/user/followups/admin/id/29
+---
+2016/08/13 10:58:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/img/img.jpg".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/img/img.jpg
+HTTP_REFERER=http://physioassists.com/user/followups/admin/id/29
+---
+2016/08/13 10:58:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/css/icheck/flat/green.css".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/css/icheck/flat/green.css
+HTTP_REFERER=http://physioassists.com/user/followups/admin/id/29
+---
+2016/08/13 10:58:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/img/img.jpg".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/img/img.jpg
+HTTP_REFERER=http://physioassists.com/user/followups/admin/id/29
+---
+2016/08/13 10:58:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/css/icheck/flat/green.css".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/css/icheck/flat/green.css
+HTTP_REFERER=http://physioassists.com/user/patients
+---
+2016/08/13 10:58:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/css/icheck/flat/green.css".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/css/icheck/flat/green.css
+HTTP_REFERER=http://physioassists.com/user/patients
+---
+2016/08/13 10:58:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/img/img.jpg".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/img/img.jpg
+HTTP_REFERER=http://physioassists.com/user/patients
+---
+2016/08/13 10:59:25 [warning] [application] Failed to set unsafe attribute "referred_by" of "Patient".
+in /home/ncarnxq8/public_html/physioassists.com/protected/modules/user/controllers/PatientsController.php (54)
+in /home/ncarnxq8/public_html/physioassists.com/index.php (51)
+2016/08/13 10:59:25 [warning] [application] Failed to set unsafe attribute "area" of "Patient".
+in /home/ncarnxq8/public_html/physioassists.com/protected/modules/user/controllers/PatientsController.php (54)
+in /home/ncarnxq8/public_html/physioassists.com/index.php (51)
+2016/08/13 10:59:25 [warning] [application] Failed to set unsafe attribute "middle_name" of "Patient".
+in /home/ncarnxq8/public_html/physioassists.com/protected/modules/user/controllers/PatientsController.php (54)
+in /home/ncarnxq8/public_html/physioassists.com/index.php (51)
+2016/08/13 10:59:25 [warning] [application] Failed to set unsafe attribute "dob" of "Patient".
+in /home/ncarnxq8/public_html/physioassists.com/protected/modules/user/controllers/PatientsController.php (54)
+in /home/ncarnxq8/public_html/physioassists.com/index.php (51)
+2016/08/13 10:59:25 [warning] [application] Failed to set unsafe attribute "age" of "Patient".
+in /home/ncarnxq8/public_html/physioassists.com/protected/modules/user/controllers/PatientsController.php (54)
+in /home/ncarnxq8/public_html/physioassists.com/index.php (51)
+2016/08/13 10:59:25 [warning] [application] Failed to set unsafe attribute "special_tests" of "Patient".
+in /home/ncarnxq8/public_html/physioassists.com/protected/modules/user/controllers/PatientsController.php (54)
+in /home/ncarnxq8/public_html/physioassists.com/index.php (51)
+2016/08/13 10:59:25 [warning] [application] Failed to set unsafe attribute "investigation" of "Patient".
+in /home/ncarnxq8/public_html/physioassists.com/protected/modules/user/controllers/PatientsController.php (54)
+in /home/ncarnxq8/public_html/physioassists.com/index.php (51)
+2016/08/13 10:59:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/img/img.jpg".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/img/img.jpg
+HTTP_REFERER=http://physioassists.com/user/patients
+---
+2016/08/13 11:00:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/css/icheck/flat/green.css".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/css/icheck/flat/green.css
+HTTP_REFERER=http://physioassists.com/user/followups/admin/id/29
+---
+2016/08/13 11:00:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/img/img.jpg".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/img/img.jpg
+HTTP_REFERER=http://physioassists.com/user/followups/admin/id/29
+---
+2016/08/13 11:00:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/css/icheck/flat/green.css".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/css/icheck/flat/green.css
+HTTP_REFERER=http://physioassists.com/user/followups/admin/id/29
+---
+2016/08/13 11:00:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/img/img.jpg".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/img/img.jpg
+HTTP_REFERER=http://physioassists.com/user/followups/admin/id/29
+---
+2016/08/13 11:00:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/css/icheck/flat/green.css".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/css/icheck/flat/green.css
+HTTP_REFERER=http://physioassists.com/user/patients
+---
+2016/08/13 11:00:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/img/img.jpg".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/img/img.jpg
+HTTP_REFERER=http://physioassists.com/user/patients
+---
+2016/08/13 11:00:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/css/icheck/flat/green.css".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/css/icheck/flat/green.css
+HTTP_REFERER=http://physioassists.com/user/patients
+---
+2016/08/13 11:00:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/img/img.jpg".' in /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 /home/ncarnxq8/public_html/lib/yii-1.1.16/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /home/ncarnxq8/public_html/physioassists.com/index.php(51): CApplication->run()
+#3 {main}
+REQUEST_URI=/themes/default/img/img.jpg
+HTTP_REFERER=http://physioassists.com/user/patients
+---
